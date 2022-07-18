@@ -1,5 +1,7 @@
 # Hi! 👋
 
+* ENTP 
+
 ### My Skills 📚
 
 ![HTML](http://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,6 +31,6 @@
 
 ### About Me
 
-![Notion](http://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion)
-<img alt="Blog" src ="https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/>
-<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+[![Notion](http://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion)](https://www.notion.so/5f63ae433674410da39d00e7998d3ab9)
+[![Blog](https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white)](https://m.blog.naver.com/PostList.naver?blogId=shinjw4675)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chyubeleub_j/)
