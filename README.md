@@ -2,7 +2,7 @@
 
 ### My Skills 📚
 
-![HTML](http://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5)
+![HTML](http://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](http://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
 ![Swift](http://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Pandas](http://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas)
