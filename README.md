@@ -1,8 +1,6 @@
-# Hi! 👋
-
 * ENTP 
 
-### My Skills 📚
+### Skills 📚
 
 ![HTML](http://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](http://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
@@ -18,7 +16,7 @@
 <img alt="Raspberrypi" src ="https://img.shields.io/badge/Raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <img alt="Illustrator" src ="https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 
-### My Toolkit 🛠
+### Toolkit 🛠
 
 ![Xcode](http://img.shields.io/badge/-Xcode-black?style=for-the-badge&logo=xcode)
 ![VisualStudioCode](http://img.shields.io/badge/-Visual_studio_code-blue?style=for-the-badge&logo=visualstudiocode)
