@@ -2,6 +2,7 @@
 I'm **jongwon**, I'm an university student in Korea who interested in **Full-stack Development** and **AI-ML Study**
 - ENTP
 - I like to find a yummy restaurants and cafe
+
 <body>
   <h2 align="center">📚 Skills 📚</h2>
   <p align='center'>
@@ -66,3 +67,8 @@ I'm **jongwon**, I'm an university student in Korea who interested in **Full-sta
     </a>
   </details>
 </body>
+
+---
+## Careers
+* Soongsil University, School of Electronic information engineering degree (2020 ~ )
+* AI/ML Member of Google Developer Student Club in Soongsil by GDSC Korea (2021~2022)
