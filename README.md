@@ -72,3 +72,5 @@ I'm **jongwon**, I'm an university student in Korea who interested in **Full-sta
 ## Careers
 * Soongsil University, School of Electronic information engineering degree (2020 ~ )
 * AI/ML Member of Google Developer Student Club in Soongsil by GDSC Korea (2021~2022)
+
+![JJongW's github stats](https://github-readme-stats.vercel.app/api?username=JJongW&show_icons=true)
