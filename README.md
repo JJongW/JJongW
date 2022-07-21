@@ -74,3 +74,4 @@ I'm **jongwon**, I'm an university student in Korea who interested in **Full-sta
 * AI/ML Member of Google Developer Student Club in Soongsil by GDSC Korea (2021~2022)
 
 ![JJongW's github stats](https://github-readme-stats.vercel.app/api?username=JJongW&show_icons=true)
+[![JJongW's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JJongW&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JJongW)
