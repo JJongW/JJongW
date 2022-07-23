@@ -26,13 +26,13 @@ I'm **jongwon**, I'm an university student in Korea who interested in **Full-sta
   <br></br>
   <h2 align="center">About Me</h2>
   <p align="center">
-    <a href="[https://www.notion.so/5f63ae433674410da39d00e7998d3ab9]" target="_blank">
+    <a href="https://www.notion.so/5f63ae433674410da39d00e7998d3ab9" target="_blank">
        <img alt="Notion" src="http://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion"/>
     </a>
-    <a href="[https://m.blog.naver.com/PostList.naver?blogId=shinjw4675]" target="_blank">
+    <a href="https://m.blog.naver.com/PostList.naver?blogId=shinjw4675" target="_blank">
       <img alt="Blog" src="https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/>
     </a>
-    <a href="[(https://www.instagram.com/chyubeleub_j]" target="_blank">
+    <a href="https://www.instagram.com/chyubeleub_j" target="_blank">
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
   </p>
