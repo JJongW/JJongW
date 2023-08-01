@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm **jongwon**, I'm an university student in Korea who interested in **Full-stack Development** and **AI-ML Study**
+I'm **jongwon**, I'm an university student in Korea who interested in **iOS Application Development** and **AI-ML Study**
 - ENTP
 - I like to find a yummy restaurants and cafe
 
@@ -57,21 +57,18 @@ I'm **jongwon**, I'm an university student in Korea who interested in **Full-sta
       <img alt="Tensorflow" src="http://img.shields.io/badge/-Tensorflow-black?style=for-the-badge&logo=tensorflow"/>
       <img alt="Scikitlearn" src="http://img.shields.io/badge/-Scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
     </p>
-    <p>
-      <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
-      <img alt="Raspberrypi" src ="https://img.shields.io/badge/Raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-    </p>
     <a align='center'>
       <img alt="Firebase" src ="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-      <img alt="Google Cloud" src ="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
     </a>
   </details>
 </body>
 
 ---
 ## Careers
-* Soongsil University, School of Electronic information engineering degree (2020 ~ )
-* AI/ML Member of Google Developer Student Club in Soongsil by GDSC Korea (2021~2022)
+* Soongsil University, School of Electronic information engineering degree (2020 ~ 2024)
+* AI/ML Member of Google Developer Student Club in Soongsil by GDSC Korea (2021 ~ 2022)
+* iOS Member of Yourssu in Soongsil (2023 ~ 2024)
+* Electronic Engeneer Member of 전자전시회 in Soongsil (2020 ~ 2024)
 
 ![JJongW's github stats](https://github-readme-stats.vercel.app/api?username=JJongW&show_icons=true)
 [![JJongW's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JJongW&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JJongW)
