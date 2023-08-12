@@ -22,7 +22,7 @@
   <img alt="React" src="http://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue"/>
  </div>
 
-### About Me
+### 🙋🏻‍♂️ About Me
 <p align="">
   <a href="https://www.notion.so/5f63ae433674410da39d00e7998d3ab9" target="_blank">
      <img alt="Notion" src="http://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion"/>
