@@ -2,7 +2,7 @@
 ### 🌿 Work experience
 - 숭실대 IT대학 부학생회장 (2022)
 - 숭실대 136 ROTC 학군단
-- 숭실대 중앙동아리 [GDSC](https://sites.google.com/view/gdscsoongsil) - AI/ML 멤버 
+- 숭실대 중앙동아리 [GDSC](https://sites.google.com/view/gdscsoongsil) 1기 - AI/ML 멤버 
 - 숭실대 AI/ML동아리 [SSUML](https://www.facebook.com/AI.SSUML/) - AI/ML멤버
 - 숭실대 중앙동아리 [YourSSU](https://intro.yourssu.com/) - iOS팀 멤버
 - 숭실대 전자전시회 - Arduino, Rasberrypi 개발
