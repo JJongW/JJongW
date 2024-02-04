@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=150&section=header&text=TED's%20iOS%20Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=TED's%20iOS%20Github&fontSize=70)
 ### 🌿 Work experience
 - 숭실대 개발소모임 [GDSC](https://sites.google.com/view/gdscsoongsil) 1기 - AI/ML 멤버
 - 숭실대 개발소모임 [GDSC](https://sites.google.com/view/gdscsoongsil) 3기 - Design 코어멤버
