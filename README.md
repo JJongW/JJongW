@@ -18,11 +18,8 @@
 
 ### 📚 Skills
 <div align=''>
-  <img alt="HTML" src="http://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="http://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3"/>
   <img alt="Swift" src="http://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
   <img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
-  <img alt="React" src="http://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue"/>
  </div>
 
 ### 🙋🏻‍♂️ About Me
