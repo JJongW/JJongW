@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=TED's%20iOS%20Github&fontSize=70)
 ### 🌿 Work experience
-- 숭실대 개발소모임 [GDSC](https://sites.google.com/view/gdscsoongsil) 1기 - AI/ML 멤버
-- 숭실대 개발소모임 [GDSC](https://sites.google.com/view/gdscsoongsil) 3기 - Design 코어멤버
+- 숭실대 개발소모임 [GDSC]([https://sites.google.com/view/gdscsoongsil](https://gdgocsoongsil.com/)) 1기 - AI/ML 멤버
+- 숭실대 개발소모임 [GDSC]([https://sites.google.com/view/gdscsoongsil](https://gdgocsoongsil.com/)) 3기 - Design 코어멤버
 - 숭실대 AI/ML동아리 [SSUML](https://www.facebook.com/AI.SSUML/) - AI/ML멤버
-- 숭실대 중앙동아리 [YourSSU](https://intro.yourssu.com/) - iOS팀 멤버
+- 숭실대 중앙동아리 [YourSSU](https://yourssu.com/) - iOS팀 멤버
 - 숭실대 전자전시회 - Arduino, Rasberrypi 개발
 
 - 숭실대 K-MOOC 학습 동아리 공모전 - PM 및 영상 편집  `(20.09 ~ 21.01, 장려상)`
@@ -14,6 +14,8 @@
 - 2023 DTech 6회 기술디자인 공모전 - iOS dev `(23.10 ~ 23.11, 한국사회복지협의회장상)`
 - 2023 세종사이버대 디지털 기술을 활용한 스마트복지 실천 아이디어 공모전 - iOS dev `(23.11 ~ 23.12, 우수상)`
 - 2023 임팩트캠퍼스 IT서비스 공모전 - iOS dev `(23.11 ~ 23.12, 우수상)` 
+- 2026 Startup DNA Hackathon - iOS dev `(26.05.22~05.23, 최우수상)`
+- 국방부 육군 중위 전역`(24.02 ~ 26.06, 소대장)`
 
 
 ### 📚 Skills
